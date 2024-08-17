@@ -33,7 +33,7 @@ body {
 /* HEADER /////////////////////////////////////////////////////////////////////*/
 
 #head {
-  background: #f4f4f4 url(../images/cover9.jpg) center center;
+  background: #f4f4f4 url(assets/images/cover9.jpg) center center;
   background-size: cover;
   color: #ffffff; /* Name color */
   padding: 30px 0 35px 0;
